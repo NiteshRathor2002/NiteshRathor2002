@@ -1,6 +1,6 @@
 ![logo](https://github.com/NiteshRathor2002/NiteshRathor2002/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nitesh Rathor</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A Passionate Software Engineer From India</h3>
 <img align="right" alt="coding" width="400"
 src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 
